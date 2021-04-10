@@ -3,295 +3,295 @@
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 1,
-    "TemplateID": "trimmed_branch"
+    "TemplateID": "17"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 2,
-    "TemplateID": "practice_dirk"
+    "TemplateID": "Arcanium_Dirk_of_Conflict"
   },
   {
     "Class": "16;6;10;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 3,
-    "TemplateID": "training_mace"
+    "TemplateID": "Arcanium_Astral_Mace_of_Impedance"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 4,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 5,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "38;25;23;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 6,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "38;25;23;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 7,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 8,
-    "TemplateID": "bronze_studded_helm"
+    "TemplateID": "Dragonslayer_Plate_Full_Helm"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 9,
-    "TemplateID": "small_training_shield"
+    "TemplateID": "Shield_of_Everlasting_Twilight"
   },
   {
     "Class": "18;5;7;12;10;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 10,
-    "TemplateID": "trimmed_branch"
+    "TemplateID": "Olcasgean_Warped_Branch"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 11,
-    "TemplateID": "training_staff"
+    "TemplateID": "Demon_Inquisitor_Staff"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 12,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 13,
-    "TemplateID": "bronze_studded_gauntlets"
+    "TemplateID": "Tempered_Shadow-bound_Gauntlets"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 14,
-    "TemplateID": "bronze_studded_boots"
+    "TemplateID": "Arcanite_Boots_of_the_Rebirth"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 15,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 16,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 17,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 18,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 19,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 20,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 21,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 22,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 23,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 24,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 25,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 26,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "20;13;8;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 27,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "20;13;8;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 28,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 29,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "20;13;8;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 30,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "20;13;8;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 31,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "18;5;7;12;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 32,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "18;5;7;12;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 33,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "18;5;7;12;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 34,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 35,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 36,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 37,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 38,
-    "TemplateID": "woolen_cloth_pants"
+    "TemplateID": "Crystalized_Crackling_Wind_Leggings"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 39,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 40,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 41,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 42,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 43,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 44,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 45,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 46,
-    "TemplateID": "practice_sword"
+    "TemplateID": "2Dragonsworn_Staff_Mid"
   },
   {
     "Class": "20;13;8;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 47,
-    "TemplateID": "trimmed_branch"
+    "TemplateID": "Olcasgean_Warped_Branch"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 48,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 49,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "0",
@@ -303,373 +303,373 @@
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 51,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 52,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 53,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 54,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "38;25;23;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 55,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "18;5;7;12;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 56,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "18;5;7;12;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 57,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "16;6;10;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 58,
-    "TemplateID": "small_training_shield"
+    "TemplateID": "Shield_of_Everlasting_Twilight"
   },
   {
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 59,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 60,
-    "TemplateID": "woolen_cloth_cap"
+    "TemplateID": "silksteel_cloth_cap"
   },
   {
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 61,
-    "TemplateID": "woolen_cloth_boots"
+    "TemplateID": "Crystalized_Mystic_Cyclops-bone_Boots"
   },
   {
     "Class": "15;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 62,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 63,
-    "TemplateID": "woolen_cloth_vest"
+    "TemplateID": "Crystalized_Snake-Lords_Runed_Vest"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 64,
-    "TemplateID": "bronze_studded_gauntlets"
+    "TemplateID": "Tempered_Shadow-bound_Gauntlets"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 65,
-    "TemplateID": "bronze_studded_boots"
+    "TemplateID": "79f144a1-22b1-40f2-9bb3-97cb1bcecc3f"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 66,
-    "TemplateID": "small_training_shield"
+    "TemplateID": "Shield_of_Everlasting_Twilight"
   },
   {
     "Class": "35;31;22;24;21;32;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 67,
-    "TemplateID": "training_axe"
+    "TemplateID": "Arcanium_Grand_Axe"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 68,
-    "TemplateID": "training_dirk"
+    "TemplateID": "Arcanium_Dirk_of_Conflict"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 69,
-    "TemplateID": "training_hammer"
+    "TemplateID": "Arcanite_Astral_Mordant_Great_Hammer"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 70,
-    "TemplateID": "training_sword_hib"
+    "TemplateID": "Fine_Steel_Long_Sword_Hib"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 71,
-    "TemplateID": "small_training_shield"
+    "TemplateID": "Shield_of_Everlasting_Twilight"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 72,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 73,
-    "TemplateID": "bronze_studded_arms"
+    "TemplateID": "Dragonslayer_Seer_Starkakedja_Arms"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 74,
-    "TemplateID": "bronze_studded_legs"
+    "TemplateID": "Arcanite_Legs_of_the_Vanquisher"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 75,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 76,
-    "TemplateID": "bronze_studded_arms"
+    "TemplateID": "Dragonslayer_Seer_Starkakedja_Arms"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 77,
-    "TemplateID": "bronze_studded_legs"
+    "TemplateID": "Arcanite_Legs_of_the_Vanquisher"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 78,
-    "TemplateID": "bronze_studded_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 79,
-    "TemplateID": "bronze_studded_helm"
+    "TemplateID": "Dragonslayer_Plate_Full_Helm"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 80,
-    "TemplateID": "training_shield"
+    "TemplateID": "3Dragonsworn_Tower_Shield_Hib"
   },
   {
     "Class": "53;48;47;46;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 81,
-    "TemplateID": "training_club"
+    "TemplateID": "Arcanite_Striking_Cobra_Great_Club"
   },
   {
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 82,
-    "TemplateID": "trimmed_branch"
+    "TemplateID": "Olcasgean_Warped_Branch"
   },
   {
     "Class": "38;25;23;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 83,
-    "TemplateID": "training_sword_mid"
+    "TemplateID": "Fine_Steel_Long_Sword_Mid"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 84,
-    "TemplateID": "training_staff"
+    "TemplateID": "Duskwood_Dreadfin_Dire_Staff"
   },
   {
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 85,
-    "TemplateID": "training_shield"
+    "TemplateID": "3Dragonsworn_Tower_Shield_Hib"
   },
   {
     "Class": "38;25;23;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 86,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "38;25;23;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 87,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 88,
-    "TemplateID": "woolen_cloth_arms"
+    "TemplateID": "Dragonslayer_Dirge_Cailiocht_Arms"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 89,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 90,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 91,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "37;28;26;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 92,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "35;31;22;24;21;32;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 93,
-    "TemplateID": "bronze_studded_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 94,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 95,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 96,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 97,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "20;13;8;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 98,
-    "TemplateID": "woolen_cloth_gloves"
+    "TemplateID": "Crystalized_Shadow-tainted_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 99,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 100,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "16;6;10;60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 101,
-    "TemplateID": "rawhide_roman_leather_boots"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Shoes"
   },
   {
     "Class": "16;6;10;60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 102,
-    "TemplateID": "rawhide_roman_leather_gloves"
+    "TemplateID": "Runic_Hardened_Leather_Gloves"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 103,
-    "TemplateID": "rawhide_roman_leather_helm"
+    "TemplateID": "Dragonslayer_Hard_Leather_Full_Helm"
   },
   {
     "Class": "16;6;10;60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 104,
-    "TemplateID": "rawhide_roman_leather_jerkin"
+    "TemplateID": "Duraeks_Leather_Jerkin"
   },
   {
     "Class": "16;6;10;60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 105,
-    "TemplateID": "rawhide_roman_leather_leggings"
+    "TemplateID": "Dragonslayer_Hard_Leather_Pants"
   },
   {
     "Class": "16;6;10;60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 106,
-    "TemplateID": "rawhide_roman_leather_sleeves"
+    "TemplateID": "Dragonslayer_Blessed_Leather_Sleeves"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 107,
-    "TemplateID": "bronze_studded_boots"
+    "TemplateID": "Arcanite_Boots_of_the_Rebirth"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 108,
-    "TemplateID": "bronze_studded_gauntlets"
+    "TemplateID": "Tempered_Shadow-bound_Gauntlets"
   },
   {
     "Class": "",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 109,
-    "TemplateID": "bronze_studded_helm"
+    "TemplateID": "Dragonslayer_Plate_Full_Helm"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 110,
-    "TemplateID": "bronze_studded_vest"
+    "TemplateID": "2_Foe_Hammers_Vest"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 111,
-    "TemplateID": "bronze_studded_legs"
+    "TemplateID": "Arcanite_Legs_of_the_Vanquisher"
   },
   {
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 112,
-    "TemplateID": "bronze_studded_arms"
+    "TemplateID": "Dragonslayer_Seer_Starkakedja_Arms"
   },
   {
     "Class": "3;",
@@ -693,18 +693,18 @@
     "Class": "60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 116,
-    "TemplateID": "plain_mauler_fistwrap"
+    "TemplateID": "lithic_fist_wrap"
   },
   {
     "Class": "60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 117,
-    "TemplateID": "plain_mauler_fistwrap"
+    "TemplateID": "lithic_fist_wrap"
   },
   {
     "Class": "60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 118,
-    "TemplateID": "plainwood_mauler_staff"
+    "TemplateID": "Demon_Inquisitor_Staff"
   }
 ]
