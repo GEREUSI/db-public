@@ -20,7 +20,6 @@ exportignore:
     - KeepCaptureLog
     - KeepComponent
     - KeepHookPoint
-    - KeepHookPointItem
     - News
     - PlayerXEffect
     - PvPKillsLog
