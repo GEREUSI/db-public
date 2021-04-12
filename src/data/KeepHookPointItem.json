@@ -1,0 +1,874 @@
+[
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416545"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 2,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416544"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 9,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416546"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 10,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416548"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 35,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416543"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 0,
+    "HookPointID": 36,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416542"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 1,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416541"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 2,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416540"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 3,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc4182310684165"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 3,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416571"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 4,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416500"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 4,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416588"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 5,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416537"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 6,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416555"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 7,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416539"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 8,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416538"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 9,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416551"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 10,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416552"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 11,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416501"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 11,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416598"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 12,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416502"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 12,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416597"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 13,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416553"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 14,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416552225"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 15,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc41823106841652684"
+  },
+  {
+    "KeepID": 385,
+    "ComponentID": 16,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc418231068416577"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416545"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 2,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a4abc418231068416544"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 9,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416546"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 10,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416548"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 35,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416543"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 0,
+    "HookPointID": 36,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416542"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 1,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416541"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 2,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416540"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 3,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc4182310684165"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 3,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416571"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 4,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416500"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 4,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416588"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 5,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416537"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 6,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416555"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 7,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416539"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 8,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416538"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 9,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416551"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 10,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416552"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 11,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416501"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 11,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416598"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 12,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416502"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 12,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416597"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 13,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416553"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 14,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416552225"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 15,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc41823106841652684"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 16,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "a44abc418231068416577"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416545"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 2,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416544"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 9,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416546"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 10,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416548"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 35,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416543"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 0,
+    "HookPointID": 36,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416542"
+  },
+  {
+    "KeepID": 641,
+    "ComponentID": 1,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416541"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 2,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416540"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 3,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc4182310684165"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 3,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416571"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 4,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416500"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 4,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416588"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 5,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416537"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 6,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416555"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 7,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416539"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 8,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416538"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 9,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416551"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 10,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416552"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 11,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416501"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 11,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416598"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 12,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416502"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 12,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416597"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 13,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416553"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 14,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416552225"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 15,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc41823106841652684"
+  },
+  {
+    "KeepID": 897,
+    "ComponentID": 16,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "b44abc418231068416577"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44abcfgdsg418231068416545"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 2,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44abcgfdsg418231068416544"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 9,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44abfsdgdfc418231068416546"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 10,
+    "ClassType": "DOL.GS.Keeps.GuardLord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44abgfsdc418231068416548"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 35,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44abgfsdgc418231068416543"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 0,
+    "HookPointID": 36,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "c44agsdfgbc418231068416542"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 4,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abgfsdgc418231068416500"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 4,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abcgfsdg418231068416588"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 5,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d14abgfsdc418231068416500"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 5,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d14agfdsgsdbc418231068416588"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 14,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d441568gfdsgsfdabc418231068416500"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 14,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d441568gsdfgabc418231068416588"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 15,
+    "HookPointID": 6,
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc4gsdfgsd18231068416500abc"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 15,
+    "HookPointID": 8,
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abcgfdsgfsd418231068416588abc"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 1,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44agsdfgdsbc418231068416588abcz"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 2,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44abc41gsfd8231068416588abczd"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 3,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "d44591263210abc4182310gbfsg68416588abcz"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 6,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abchgdgfddafgf0"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 7,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgfsdgdfgvbdfc1"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 7,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgsdfgfdsgvbc2"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 8,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgfsdgbvfgsdc3"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 9,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "agfdsgsdfgvbc4"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 10,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "agfdsgfbvsfbbc5"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 11,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgsfdbgvfsdc6"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 12,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abcgfdsgfdsvgfds7"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 13,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgfdsvfdsc8"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 16,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abgfsdvfdsvsdc9"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 17,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abvfsdvfdsvsdc10"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 18,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abcvfsdvfsdvs11"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 19,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abcvfdsvsdvsd12"
+  },
+  {
+    "KeepID": 129,
+    "ComponentID": 20,
+    "HookPointID": 1,
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "KeepHookPointItem_ID": "abvfsdvsdfvsd13"
+  }
+]
