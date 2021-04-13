@@ -43,6 +43,6 @@ jobs:
           uses: mvasigh/dispatch-action@main
           with:
             token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-            repo: GEREUSI/DOLSharp
-            owner: 'GEREUSI'
+            repo: DOLSharp
+            owner: GEREUSI
             event_type: rebuild_server
