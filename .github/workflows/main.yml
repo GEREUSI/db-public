@@ -39,3 +39,10 @@ jobs:
             location: 'germanywestcentral'
             ports: 3306
             environment-variables: MYSQL_ROOT_PASSWORD=${{ secrets.MYSQL_ROOT_PASSWORD }} MYSQL_DATABASE=${{ secrets.MYSQL_DATABASE }} MYSQL_USER=${{ secrets.MYSQL_USER }} MYSQL_PASSWORD=${{ secrets.MYSQL_PASSWORD }}
+        - name: 'Restart DOLSharp shard'
+          uses: mvasigh/dispatch-action@main
+          with:
+            token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+            repo: GEREUSI/DOLSharp
+            owner: 'GEREUSI'
+            event_type: rebuild_server
