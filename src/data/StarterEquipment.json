@@ -9,13 +9,13 @@
     "Class": "17;9;4;3;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 2,
-    "TemplateID": "Arcanium_Dirk_of_Conflict"
+    "TemplateID": "Shimmering_Flawless_Stiletto_of_Soulshade"
   },
   {
     "Class": "16;6;10;33;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 3,
-    "TemplateID": "Arcanium_Astral_Mace_of_Impedance"
+    "TemplateID": "Azure_Faithbound_Cudgel"
   },
   {
     "Class": "36;30;29;27;59;",
@@ -57,13 +57,13 @@
     "Class": "18;5;7;12;10;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 10,
-    "TemplateID": "Olcasgean_Warped_Branch"
+    "TemplateID": "Staff_of_Perfect_Incantation"
   },
   {
     "Class": "57;55;56;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 11,
-    "TemplateID": "Demon_Inquisitor_Staff"
+    "TemplateID": "Prismatic_Staff_of_Insanity"
   },
   {
     "Class": "",
@@ -273,13 +273,13 @@
     "Class": "14;2;1;11;19;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 46,
-    "TemplateID": "2Dragonsworn_Staff_Mid"
+    "TemplateID": "Tusk-Bladed_Axe"
   },
   {
     "Class": "20;13;8;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 47,
-    "TemplateID": "Olcasgean_Warped_Branch"
+    "TemplateID": "Staff_of_Spirit_and_Matter"
   },
   {
     "Class": "54;49;50;58;",
@@ -399,13 +399,13 @@
     "Class": "35;31;22;24;21;32;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 67,
-    "TemplateID": "Arcanium_Grand_Axe"
+    "TemplateID": "Tusk-Bladed_Axe"
   },
   {
     "Class": "54;49;50;58;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 68,
-    "TemplateID": "Arcanium_Dirk_of_Conflict"
+    "TemplateID": "Broodmother_Fang"
   },
   {
     "Class": "37;28;26;",
@@ -417,7 +417,7 @@
     "Class": "52;44;43;45;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 70,
-    "TemplateID": "Fine_Steel_Long_Sword_Hib"
+    "TemplateID": "Driftwood_Staff"
   },
   {
     "Class": "14;2;1;11;19;",
@@ -489,19 +489,19 @@
     "Class": "36;30;29;27;59;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 82,
-    "TemplateID": "Olcasgean_Warped_Branch"
+    "TemplateID": "2_SFSS_Staff"
   },
   {
     "Class": "38;25;23;34;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 83,
-    "TemplateID": "Fine_Steel_Long_Sword_Mid"
+    "TemplateID": "Agmundrs_Foe_Slayer"
   },
   {
     "Class": "51;40;41;42;39;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 84,
-    "TemplateID": "Duskwood_Dreadfin_Dire_Staff"
+    "TemplateID": "Prismatic_Staff_of_Insanity"
   },
   {
     "Class": "52;44;43;45;",
@@ -705,6 +705,6 @@
     "Class": "60;61;62;",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "StarterEquipmentID": 118,
-    "TemplateID": "Demon_Inquisitor_Staff"
+    "TemplateID": "pictslayer_weighted_staff"
   }
 ]
